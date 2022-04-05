@@ -3,6 +3,8 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
+
+pip install xgboost
 import xgboost
 
 """
